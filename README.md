@@ -3,7 +3,7 @@
 <!-- [Badge Status](https://ci-as-a-service) -->
 
 <!-- Overview -->
-This console app makes pyautogui more easy to use and helps you automate the operation of your Mac.
+This console app makes pyautogui more easy to use and helps you automate the operation of  Mac.
 
 ## Description
 
