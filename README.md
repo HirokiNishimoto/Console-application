@@ -23,8 +23,7 @@ With this application, you can do the following things.
 - Automate file management
 - Automating command input at terminal
 
-/*For more infomation, see `automac --help`. \*/
-<!--
+<!--  For more infomation, see `automac -help`. 
 ## Requirement
 
 -
