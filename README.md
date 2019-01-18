@@ -47,4 +47,4 @@ AnythingAnythingAnything
 -->
 ## Author
 
-[@nishimo98](https:/twitter.com/nishimo98?lang=ja)
+[@nishimo98](https:/twitter.com/nishimo98)
